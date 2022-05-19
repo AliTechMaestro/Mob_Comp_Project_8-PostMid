@@ -2,5 +2,6 @@
     <string name="app_name">My Application</string>
     <string name="title">Explicit Intents</string>
     <string name="buttonTxt">Git Profile</string>
+    <string name="btnTxt2">Working Repository</string>
 
 </resources>
